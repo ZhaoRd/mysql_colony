@@ -1,0 +1,9 @@
+[mysql]
+default-character-set=utf8
+
+[mysqld]
+character-set-server=utf8
+#log-error=/var/log/mysql/error.log
+#log=/var/log/mysql/mysql.log
+#long_query_time=2
+#log-slow-queries=/var/log/mysql/slowquery.log
